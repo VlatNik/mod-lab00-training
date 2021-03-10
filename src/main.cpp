@@ -1,7 +1,5 @@
-#include <iostream>
-#include "fun.h"
 
 int main() {
-	std::cout << power(2, 8);
+long long x=power(2,4);
 	return 0;
 }
